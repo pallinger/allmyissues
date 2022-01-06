@@ -1,0 +1,6 @@
+= allmyissues plugin for redmine
+
+This is a plugin for Redmine to add a link to the top to list all my issues.
+I wrote this is mainly to try out how to create a redmine plugin.
+
+You have to have a query with id 2 that you want to use under the link.
